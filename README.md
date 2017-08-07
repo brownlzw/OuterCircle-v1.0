@@ -1,7 +1,9 @@
 OuterCircle
 ===========
 
-As of 7/17/2017, OuterCircle is publicly hosted at <http://ec2-52-32-167-201.us-west-2.compute.amazonaws.com>.
+OuterCircle.org will be a web-based platform that facilitates, encourages and rewards individual philanthropy, with the goal of building a community of online givers who feel connected, impactful, motivated and valued. 
+
+This is the version 1.0 of OuterCircle.
 
 To install OuterCircle, run:
 
@@ -51,3 +53,7 @@ Administrator:
 ==============
 
 Administrator is admin@outercircle.org. If the user doesn't exist you can add it with whatever password you want. After logging in as admin@outercircle.org go to /adminPortal to add charities.
+
+Lisence:
+=============
+MIT
